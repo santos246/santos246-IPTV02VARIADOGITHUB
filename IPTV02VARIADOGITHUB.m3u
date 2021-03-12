@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
-
-AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
-
 
 
 #EXTINF:-1 tvg-logo="https://portuguessemmisterio.files.wordpress.com/2015/07/bem-vindos.jpg" group-title="BEM VINDOS", ABERTURA A
@@ -66,8 +62,6 @@ https://www.googleapis.com/drive/v3/files/1Kel2D_5yVp1p2ubWnd5ImnkC6ERydiqD?alt=
 
 
 
-#EXTINF:-1 tvg-logo="https://wolverdonfilmes.net/wp-content/uploads/2021/02/Medo-da-Chuva-Torrents-241x300.jpg" group-title="IMAGEM", TESTE
-https://wolverdonfilmes.net/wp-content/uploads/2021/02/Medo-da-Chuva-Torrents-241x300.jpg
 
 
 
@@ -80,5 +74,9 @@ LINK
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CATEGORIA", NOME
 LINK
+
+https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
+
+AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
 
