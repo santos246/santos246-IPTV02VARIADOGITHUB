@@ -205,8 +205,18 @@ https://www.googleapis.com/drive/v3/files/1YEUfpPL_cELolUgY9WY3evSnWpXVo3cf?alt=
 https://www.googleapis.com/drive/v3/files/1Kel2D_5yVp1p2ubWnd5ImnkC6ERydiqD?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
-LINK
+
+
+
+
+
+
+https://www.vix.com/tv/
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", test
+https://play-akamai.pongalo.com/female-club_pt/female-club_pt_1-1/play_v1_hls_234p.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
 LINK
