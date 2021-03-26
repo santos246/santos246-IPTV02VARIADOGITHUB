@@ -341,11 +341,23 @@ LINK
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
-LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
-LINK
+
+
+
+
+
+FILMES TESTE
+https://www.cinemaqualidade.li/filme/amizade-maldita-2019-online-baixar/
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cinemaqualidade.li/wp-content/uploads/2021/03/Amizade-Maldita-2019.jpg" group-title="FILMES", Amizade Maldita (2019)
+https://xaia.evosrv.com/EvoStreams/JrblPoBONISQeqaxWWo3.mp4.mp4?md5=DXjpqClVM6q0_e9-rKtoig&expires=1616739081
+
+#EXTINF:-1 tvg-logo="https://www.cinemaqualidade.li/wp-content/uploads/2021/03/A-Cor-que-Caiu-do-Espaco-2019.jpg" group-title="FILMES", A Cor que Caiu do Espaço (2019)
+https://lia.evosrv.com/EvoStreams/sXIrYvbfHoxbxj7ddQiM.mp4.mp4?md5=GfAB-hG3O7cqVnlb1JRneQ&expires=1616739350
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
 LINK
