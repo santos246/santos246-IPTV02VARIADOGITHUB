@@ -561,22 +561,43 @@ LINK
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
+
+
+
+
+
+
+TV
+
+
+
+http://www.olhosnatv.com.br/
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/s0/CANAL%2B29.png" group-title="TV", CANAL 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
+
+
+
+RÁDIAS
+
+
+https://www.radio-ao-vivo.com/?gclid=CjwKCAjwjbCDBhAwEiwAiudBy0rGPFPB82japy3qjpE9xywl8a_dvHbX7gsZuQ28HNgPEzKkksHpFRoCNqcQAvD_BwE
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dH7Ea6pCs6.jpg" group-title="RÁDIAS", Antena 1 FM ao vivo
+https://antenaone.crossradio.com.br/stream/1;
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8PgTxpt6Cy.jpg" group-title="RÁDIAS", Jovem Pan FM São Paulo ao vivo
+https://18723.live.streamtheworld.com/JP_SP_FMAAC_SC
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="RÁDIAS", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="RÁDIAS", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="RÁDIAS", NOME
 LINK
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
-LINK
-
-
-
 
 
