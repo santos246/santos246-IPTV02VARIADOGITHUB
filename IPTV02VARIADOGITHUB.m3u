@@ -578,38 +578,19 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist.m3u8
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
 
 
 
 http://www.cxtv.com.br/tv/categorias/filmes
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="TV", TV CARIOCA.NET
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1174317737.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0bf29296ede8db8b9c502fba9c05cb7f.png" group-title="TV", Bons Tempos
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1508460063.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="TV", Tv Aracati HD
 https://5e36c064a2f6a.streamlock.net:1936/8554/8554/chunklist_w308732838.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d08352f33c92124373d9f3b0fcf2ef8.png" group-title="TV", Tv Loading
-https://verizon.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="TV", TV CARIOCA.NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1174317737.m3u8
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
