@@ -654,18 +654,32 @@ LINK
 
 
 
+https://cultura.uol.com.br/aovivo/?aff_source=56d95533a8284936a374e3a6da3d7996
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", AO VIVO - TV CULTURA
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlxJlLz4VFujwCzAHpB4lyzc)/dm/3/x7wur7g/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+
+
+
+
+
+http://detran-br.com/cine-trianon-tv/
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1949414442.m3u8
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
 
+
+
+
+
+
+http://brasiltvweb.com/#/
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=hQTTPmPUH0Oj&app_ver=10101&auth_id=40972830_com.global.brasiltvweb&client_ip=201.19.114.190&user_id=40972830&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=5da2bc5d&expired=1617792943&token=3554308F79A18D94A6AA0E268AADBD71&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
