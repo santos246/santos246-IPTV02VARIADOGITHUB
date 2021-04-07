@@ -604,14 +604,14 @@ https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title="TV", Latinasat Web TV
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w2019709991.m3u8
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/084299119e2cf7e1b863489165dd5af3.jpg" group-title="TV", TV Teen Net
+https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w233534648.m3u8
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="TV", Tv Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w450804202.m3u8
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="TV", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1000481821.m3u8
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
