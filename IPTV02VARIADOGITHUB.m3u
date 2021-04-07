@@ -613,32 +613,47 @@ https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5d1e3362b4261afb6c04e848c156dd89.png" group-title="TV", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1000481821.m3u8
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title="TV", Tv Jornal do Nordeste
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w739944205.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d8ea456a45f1f4837ffb24db7646f8f.png" group-title="TV", Web Tv Cine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1325425736.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f24b1cd1064865c050503ea604e4526a.jpg" group-title="TV", Tv J.SID
+https://5e36c064a2f6a.streamlock.net:1936/8262/8262/chunklist_w1391564158.m3u8
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+
+
+
+
+
+
+
+http://www.melhorsite.xyz/categorias/assistir-filmes-online-gratis/
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2021/03/unnamed-58x38.png" group-title="TV", TV CINE WEB
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w409729964.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2021/02/CANAL-29-58x38.png" group-title="TV", CANAL 29 (FILMES 24H)
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w274169311.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2021/03/Screenshot_2019-06-18-19-19-09-58x38.png" group-title="TV", ASSISTIR REDE BRASIL AO VIVO ONLINE HD
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1888976735.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2021/03/logo-58x38.jpg" group-title="TV", UNI TV BURITAMA
+https://stmv3.samcast.com.br/marcosroberto5912/marcosroberto5912/chunklist_w107413131.m3u8
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+
+
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
