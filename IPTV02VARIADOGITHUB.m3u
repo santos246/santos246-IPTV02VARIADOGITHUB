@@ -596,8 +596,8 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1508460063.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="TV", Tv Aracati HD
 https://5e36c064a2f6a.streamlock.net:1936/8554/8554/chunklist_w308732838.m3u8
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d08352f33c92124373d9f3b0fcf2ef8.png" group-title="TV", Tv Loading
+https://verizon.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
