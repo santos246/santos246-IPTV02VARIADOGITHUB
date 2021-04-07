@@ -592,17 +592,17 @@ https://5e36c064a2f6a.streamlock.net:1936/8554/8554/chunklist_w308732838.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="TV", TV CARIOCA.NET
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1174317737.m3u8
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da38f2efc9744b3ef828306b81b4588b.jpg" group-title="TV", Krónos Movie Web Tv
+https://5e36c064a2f6a.streamlock.net:1936/8310/8310/chunklist_w474135546.m3u8
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d08352f33c92124373d9f3b0fcf2ef8.png" group-title="TV", Tv Loading
+https://aws.gcp.br.cdn.booyah.live/hls/151073/34850987_720.m3u8
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/db24d44b23d48de613d70881b8f1d013.png" group-title="TV", Classique Western TV
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/65a87fc7f3192b4ce780d81162387299.jpg" group-title="TV", Latinasat Web TV
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w2019709991.m3u8
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", NOME
 LINK
