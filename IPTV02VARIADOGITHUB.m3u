@@ -858,7 +858,21 @@ LINK
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
+
+
+
+
+DOCUMENTÁRIOS
+
+
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="DOCUMENTÁRIOS", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="DOCUMENTÁRIOS", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="DOCUMENTÁRIOS", NOME
 LINK
 
 
