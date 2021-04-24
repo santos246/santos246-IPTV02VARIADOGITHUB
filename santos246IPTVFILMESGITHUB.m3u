@@ -174,7 +174,7 @@ LINK
 
 https://sites.google.com/site/gdocs2direct/home
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg" group-title="FILME", Corra! (2017)
-https://drive.google.com/uc?export=download&id=13R3pBzRGuiK1DuK8PTqa4fZxG8n9AipG
+https://www.googleapis.com/drive/v3/files/13R3pBzRGuiK1DuK8PTqa4fZxG8n9AipG?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
 LINK
