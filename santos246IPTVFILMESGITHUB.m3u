@@ -631,6 +631,36 @@ https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=1f2d901ce160aef
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNhMTZlMmItMDRkYy00YjBlLThiZTEtZDQ1ZjNmYWM4NWVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="FILMES HD", Top Secret 1984
 https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=a3f9a536b6448fdec70c80290dd66a19f1985b8d&st.uid=577326754442&st.mq=3&st.mvid=1159601654336&st.ip=191.212.238.127&st.dla=off&st.exp=1620990831412&st.hls=off&_prevCmd=movieLayer&tkn=4292&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/keQ4ra50w1nktSPRPauxpLaAM2F.jpg" group-title="FILMES HD", Filmes completos dublados 2018
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=5890aebedbcdd8ae4649fec00ce644d0ec9b32d9&st.uid=577326754442&st.mq=3&st.mvid=831834752467&st.ip=191.212.238.127&st.dla=off&st.exp=1620991522056&st.hls=off&_prevCmd=movieLayer&tkn=3891&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/04/A_m%C3%BAmia.jpg/220px-A_m%C3%BAmia.jpg" group-title="FILMES HD", A Múmia (1999) 
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=c2a4a958246d64466a672642cd442235fc3ffe99&st.uid=577326754442&st.mq=3&st.mvid=1127598131869&st.ip=191.212.238.127&st.dla=off&st.exp=1620991832725&st.hls=off&_prevCmd=movieLayer&tkn=7670&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/19/02/12/13/17/0875127.jpg" group-title="FILMES HD", Cópias-De Volta à Vida (2019) 
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=a7b9970b50ce85a722087d27bc95c834910d4a44&st.uid=577326754442&st.mq=3&st.mvid=1423640824477&st.ip=191.212.238.127&st.dla=off&st.exp=1620991832732&st.hls=off&_prevCmd=movieLayer&tkn=866&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ad/Quarteto_Fant%C3%A1stico_poster.jpg/250px-Quarteto_Fant%C3%A1stico_poster.jpg" group-title="FILMES HD", Quarteto Fantástico 2005
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=68e0326846c17711f2890155cd4b06b1f427b387&st.uid=577326754442&st.mq=3&st.mvid=705294895832&st.ip=191.212.238.127&st.dla=off&st.exp=1620991830114&st.hls=off&_prevCmd=movieLayer&tkn=8499&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
 LINK
 
