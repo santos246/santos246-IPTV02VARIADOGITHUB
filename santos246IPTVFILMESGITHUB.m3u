@@ -628,8 +628,8 @@ https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=f5e29ff6d10884b
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/08/21/18/24/140872.jpg" group-title="FILMES HD", Ruas de Fogo - 1984
 https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=1f2d901ce160aef0bec11efd5f1cd8d929195e03&st.uid=577326754442&st.mq=3&st.mvid=428653939360&st.ip=191.212.238.127&st.exp=1620990310853&st.hls=off&_prevCmd=friendMain&tkn=1174&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
-LINK
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNhMTZlMmItMDRkYy00YjBlLThiZTEtZDQ1ZjNmYWM4NWVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="FILMES HD", Top Secret 1984
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=a3f9a536b6448fdec70c80290dd66a19f1985b8d&st.uid=577326754442&st.mq=3&st.mvid=1159601654336&st.ip=191.212.238.127&st.dla=off&st.exp=1620990831412&st.hls=off&_prevCmd=movieLayer&tkn=4292&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
 LINK
