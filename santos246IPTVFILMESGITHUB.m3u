@@ -10,15 +10,6 @@ https://www.googleapis.com/drive/v3/files/1HpanZz9QbXYDbDyhdtDr8teZzeaYL_LU?alt=
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Ok_new_logo.png" group-title="OK.RU", OK.RU
-https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=80d0c62b5729b6fcb67ef68bb9d572d644228d52&st.uid=577326754442&st.mq=3&st.mvid=187517110981&st.ip=191.212.238.127&st.dla=on&st.exp=1620979283572&st.hls=off&_prevCmd=movieMain&tkn=8274&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Ok_new_logo.png" group-title="OK.RU", OK.RU
-https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=a6ea20e91ed4048fd66cf9181cc22f520b461337&st.uid=577326754442&st.mq=3&st.mvid=187412712133&st.ip=191.212.238.127&st.dla=on&st.exp=1620979283585&st.hls=off&_prevCmd=movieMain&tkn=9412&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
-
-
-
 #EXTINF:-1 tvg-logo="https://img.travessa.com.br/DVD/BA/ad/ad879c39-b58c-41ca-b92b-2f5260ef5c69.jpg" group-title="FILME", A Tribo 2
 https://www.googleapis.com/drive/v3/files/1eYb706e9vgAjRqvziBHisGKx4ngBdoBZ?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
@@ -563,6 +554,88 @@ https://www.googleapis.com/drive/v3/files/LINKDRIVE?alt=media&key=AIzaSyCKN01YAD
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILME", NOME
 https://www.googleapis.com/drive/v3/files/LINKDRIVE?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
+
+
+
+
+
+
+
+
+
+OK.RU
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/u7abGZqL4LTxTeXZseHvd9CvzbE.jpg" group-title="FILMES HD", Uma Noite Infernal (2020) 
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=1ef57dd52d3791fd5b803bd1e1ad3c329b974317&st.uid=577326754442&st.mq=3&st.mvid=1721679809181&st.ip=191.212.238.127&st.dla=off&st.exp=1620980769368&st.hls=off&_prevCmd=movieLayer&tkn=3887&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/YdDUXDBsIukz5bO3z-m8vCAzeO8=/smart/e.glbimg.com/og/ed/f/original/2020/08/03/loftushall3.jpg" group-title="FILMES HD", A.Casa.Assambrada (2020)
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=7d86b0d79c3b0bd9b7d4805fdcca619951b40363&st.uid=577326754442&st.mq=3&st.mvid=1770798451357&st.ip=191.212.238.127&st.dla=off&st.exp=1620981399793&st.hls=off&_prevCmd=movieLayer&tkn=2103&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
+
+#EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2020/05/20200525-ruas-em-guerra-cartaz-papo-de-cinema-e1590425228567.jpg" group-title="FILMES HD", Ruas em Guerra (2020)
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=5ae0fed952f9a8c6f95cb1b3ee1a98f6c5ac290c&st.uid=577326754442&st.mq=3&st.mvid=1718497118877&st.ip=191.212.238.127&st.dla=off&st.exp=1620981483586&st.hls=off&_prevCmd=movieLayer&tkn=1016&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
+
+#EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/filmes/filmes_3417_movie43-000.jpg" group-title="FILMES HD", Para Maiores (2013) 
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=1c1c4e1663101bc1815ab0006d51ba4a46ea37e6&st.uid=577326754442&st.mq=3&st.mvid=1034525215389&st.ip=191.212.238.127&st.dla=off&st.exp=1620981573597&st.hls=off&_prevCmd=movieLayer&tkn=8215&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXxe6wlonpfu0GjnhPLW8JImipY7V5EZ0Tebh62etUu6EU0yKLr6frjob7-DCJffZiS4&usqp=CAU" group-title="FILMES HD", A Inudação - Dublado (2017)
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=490595068c0631461010440193fda4aaf6d56cab&st.uid=577326754442&st.mq=3&st.mvid=907752966813&st.ip=191.212.238.127&st.dla=off&st.exp=1620981685707&st.hls=off&_prevCmd=movieLayer&tkn=5638&vdsig=VqDA4k5qWNQJEB5uu0sjLRBNmig
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES HD", NOME
+LINK
 
 
 
