@@ -16,11 +16,14 @@ FILMES DIÁRIOS
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1j7wWtdv78o/movieposter.jpg" group-title="FILMES DIÁRIOS", CHRONICAL 2067
 https://www.googleapis.com/drive/v3/files/1REKRLt_W-CLYaQJJBIL3KqZc4egXO5-R?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="FILMES DIÁRIOS", NOME
-LINK
+#EXTINF:-1 tvg-logo="https://cinepop.com.br/wp-content/uploads/2020/08/scary-2021.jpg" group-title="FILMES DIÁRIOS", TERROR
+https://www.googleapis.com/drive/v3/files/1J-AahKKHbMWYt87Nls-7ZZ4MFW0UQWp7?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="FILMES DIÁRIOS", NOME
-LINK
+#EXTINF:-1 tvg-logo="https://i2.wp.com/rfilmesonline.com/wp-content/uploads/2020/07/qCp3BLjQc1qZTbw9VrEzuON9NEG.jpg?fit=500%2C750&ssl=1" group-title="FILMES DIÁRIOS", Filme Jack O Caçador De Gigantes HD
+https://www.googleapis.com/drive/v3/files/1YybJsTOf4KCt-V0ISAWblpZVoCTet18u?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5IB7AiEQ1AA/sddefault.jpg" group-title="FILMES DIÁRIOS", O MELIANTE
+https://www.googleapis.com/drive/v3/files/1fkiIkCoI4bgIxjDZ8OcQoGVNBzhUyOMz?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="FILMES DIÁRIOS", NOME
 LINK
